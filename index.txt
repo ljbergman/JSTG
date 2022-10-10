@@ -12,5 +12,12 @@ info = kassFuntion(bah) {
 }
 
 
+info = kassFuntion20(bah) {
+    return bah - 5;
+}
 
+
+info = kassFuntion200(bah) {
+    return bah - 5;
+}
 
