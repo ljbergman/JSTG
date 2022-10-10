@@ -14,8 +14,3 @@ info = kassFuntion(bah) {
 
 
 
-lol = kassFuntion2(bah) {
-    return bah - 10;
-}
-
-
