@@ -17,4 +17,4 @@ info = kassFuntion200(bah) {
 
 }
 
-var murbruk = 70;
+var murbruk = 7000;
