@@ -12,10 +12,9 @@ info = kassFuntion20(bah) {
     return bah - 5;
 }
 
-
 info = kassFuntion200(bah) {
     return bah - 50;
 
 }
 
-var murbruk = 2;
+var murbruk = 70;
