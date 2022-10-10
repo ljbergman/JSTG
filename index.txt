@@ -18,3 +18,5 @@ info = kassFuntion200(bah) {
 }
 
 var murbruk = "Den heligaste kungen av dem alla!!";
+
+kanon = "Superduper";
