@@ -1,0 +1,15 @@
+test filen superchanged
+
+
+
+
+function getSome(info) {
+
+    return info*4;
+}
+
+
+info = kassFuntion(bah) {
+    return bah - 5;
+}
+
